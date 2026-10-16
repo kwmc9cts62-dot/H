@@ -162,7 +162,7 @@ function openMessage() {
 
   const message = document.getElementById("message");
 
-  message.textContent = "دخلت حسابك يا هطف 😂";
+  message.textContent = "انا هكر دخلت حسابك 😂";
 
   message.style.display = "block";
 
